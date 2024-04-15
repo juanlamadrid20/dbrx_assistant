@@ -1,0 +1,4 @@
+/.env
+/notes
+/poetry.lock
+.DS_Store
