@@ -2,3 +2,4 @@
 /notes
 /poetry.lock
 .DS_Store
+.databricks
